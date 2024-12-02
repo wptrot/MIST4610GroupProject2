@@ -7,12 +7,27 @@
 - Trotman, William:
   
 ## Dataset Description
-Our group wanted to visualize the dataset "Health conditions among children under age 18, by selected characteristics: United States" provided by the U.S. Department of Health & Human Services on Data.gov https://catalog.data.gov/dataset/health-conditions-among-children-under-age-18-by-selected-characteristics-united-states-53b56.
+Our group chose to visualize the dataset "Health conditions among children under age 18, by selected characteristics: United States" provided by the U.S. Department of Health & Human Services.
+
+https://catalog.data.gov/dataset/health-conditions-among-children-under-age-18-by-selected-characteristics-united-states-53b56
+
+The dataset recorded the percentage of children with health conditions in the United States between 1997-2018. Some of the health conditions include ADHD, asthma, food allergies, and skin allergies. 2744 rows of data were contained within the dataset with 16 columns/fields providing descriptive information regarding each row. Some key columns/fields our group chose to utilize in our visualizations are listed below.
+
+**Panel Column:** The different health conditions such as ADHD, asthma, food allergies, and skin allergies.
+
+**Stub Label Column:** The various characteristics of the children such as age, gender, and race.
+
+**Year Column:** Each year between 1997-2018 is grouped by a lapse of 3 years. For example, 1997-1999 or 2013-2015.
+
+**Estimate Column:** The percentage of children afflicted by the health condition(s).
 
 ## Questions
 
+
 ## Dataset Manipulations
 
+
 ## Analysis and Results
+
 
 ## Tableau Packaged Workbook

@@ -22,12 +22,22 @@ The dataset recorded the percentage of children with health conditions in the Un
 **Estimate Column:** The percentage of children afflicted by the health condition(s).
 
 ## Questions
+**1.** Does the percentage of children affected by skin allergies differ between races?
+
+
+
+**2.** Does the percentage of children affected by various health conditions vary between 1997-1999 and 2016-2018?
+
 
 
 ## Dataset Manipulations
-
+![](GP2Q1.png)
+![](GP2Q2.png)
 
 ## Analysis and Results
 
 
 ## Tableau Packaged Workbook
+**Tableau:** 
+
+**Presentation:** https://docs.google.com/presentation/d/1_spfeNQEnBOtTZ1GlbQeA-eewAAE1KfyYS9dKZrO6pU/edit?usp=sharing

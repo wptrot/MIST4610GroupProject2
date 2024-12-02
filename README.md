@@ -7,7 +7,7 @@
 - Trotman, William:
   
 ## Dataset Description
-Our group chose to visualize the dataset "Health conditions among children under age 18, by selected characteristics: United States" provided by the U.S. Department of Health & Human Services.
+Our group chose to visualize the dataset "Health conditions among children under age 18, by selected characteristics: United States" provided by the U.S. Department of Health & Human Services. This is because, in an ideal world, no child should have to battle with health conditions and if we could use this data to formulate possible solutions, then that would help us reach our ultimate goal.
 
 https://catalog.data.gov/dataset/health-conditions-among-children-under-age-18-by-selected-characteristics-united-states-53b56
 
@@ -48,10 +48,18 @@ _____________________________________
 ## Analysis and Results
 **Question 1:** We focused our research on the possible cause behind the disproportionate number of African American children affected by skin allergies. This is because it was far and away the biggest outlier in the visualization. Not only did they see a doubling in the percentage of children affected by skin allergies between 1997-2018, but at its peak, there was a 6.30% difference between African Americans and the second-highest affected race (Asians).
 
-Based on two separate articles published in the National Library of Medicine, operated by the United States Federal Government, we concluded that a mix of socioeconomic and genetic factors played a role in this major discrepancy. The article outlying the socioeconomic factors that could be associated with the data focused on eczema, the most common form of skin allergy. Eczema is mainly caused by an overactive immune system reacting to the surrounding environment via catalysts such as dust mites and certain chemicals within disinfectants and detergents. We surmised that these catalysts were more prevalent in African American households due to a lower standard of living caused by an economic disparity. Utilizing data acquired from the Bureau of Labor Statistics on annual income for different households based on race from 2014-2016, African Americans on average made $21,577 less than the total average. This directly shows the economic disadvantage that African Americans are faced with and thus puts them at greater risk in an environment that is correlative to eczema. All of these factors collide, leading to an increased rate of eczema in African American children.
+Before going further into the research, we wanted to give a reminder that none of the following conclusions or points of research came from a place of hate or prejudice. We simply wanted to find conclusions that tied to the visualization and the articles we chose supported the outlying trend.
 
-____________
-**Question 2:**
+Based on two separate articles published in the National Library of Medicine, operated by the United States Federal Government, we concluded that a mix of socioeconomic and genetic factors played a role in this major discrepancy. The article outlying the socioeconomic factors that could be associated with the data focused on eczema, the most common form of skin allergy. Eczema is mainly caused by an overactive immune system reacting to the surrounding environment via adverse reactions to dust mites and certain chemicals within disinfectants and detergents. We surmised that these catalysts were more prevalent in African American households due to a lower standard of living caused by an economic disparity. Utilizing data acquired from the Bureau of Labor Statistics on annual income for different households based on race from 2014-2016, African Americans on average made $21,577 less than the total average. This directly shows the economic disadvantage that African Americans are faced with and thus puts them at greater risk in an environment that is correlative to eczema. All of these factors collide, leading to an increased rate of eczema in African American children.
+
+In the second article, research indicated that a structural difference in skin also played a part in higher rates of eczema specifically. One point highlighted was the desquamation rate differences between races. Desquamation rate is defined as the shedding of dead skin cells and African Americans had a desquamation rate 2.5x higher than other races. Dead or dry skin is a symptom of eczema and if African Americans have dryer skin than other races, then it could be surmised that this acts as a catalyst of sorts to the development of eczema itself.
+
+While finding a reason behind why African Americans are disproportionately affected by skin allergies compared to other races was valuable, coming up with possible solutions holds considerably more significance towards why we wanted to work with this dataset. One solution we proposed was to encourage funding for eczema treatments that are less "one-size-fits-all" and more curated towards African Americans and other disproportionately affected groups. It seems preposterous that we don't work towards solutions for groups more negatively affected than others.
+
+__________________________________________________________
+**Question 2:** 
+
+
 
 ## Tableau Packaged Workbook
 **Tableau:** https://github.com/DavidRunckel/MIST4610GroupProject2/blob/main/MIST4610GroupProject2.twbx

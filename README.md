@@ -58,7 +58,13 @@ While finding a reason behind why African Americans are disproportionately affec
 
 __________________________________________________________
 **Question 2:** 
+Our analysis focused on identifying trends in the percentage of children affected by various disease panels between 1997–1999 and 2016–2018, using the oldest and most recent data available. One striking difference highlighted in our visualization pertains to the category of serious emotional or behavioral difficulties. While nearly 6% of children were reported as affected in recent years, this category was absent from the dataset in 1997–1999. This absence does not indicate a lack of mental health issues in the 1990s but rather reflects a significant evolution in the recognition, diagnosis, and treatment of children's mental health and behavioral challenges. Increased awareness and expanded resources have played a pivotal role in this shift. Notably, the dataset began recording emotional difficulties as a category of illness between 2003–2005, marking a key turning point.
 
+Although no substantial change was observed in the overall prevalence of mental disorders between 1990–1992 and 2001–2003, the proportion of children receiving treatment for emotional problems nearly doubled—from 12.2% to 20.1% (National Library of Medicine, 2005). This indicates growing recognition of mental health needs and improved response mechanisms. By 2019, 70.7% of children aged 4 to 17 with mental health problems were receiving treatment, underscoring a significant enhancement in access to mental health services compared to earlier years (OASH, 2024).
+
+Additionally, the data revealed a marked increase in the prevalence of food and skin allergies over the two-decade span. This growth can be attributed to advances in diagnostic testing as well as environmental and dietary changes. Since the 1990s, medical professionals have shifted from RAST allergy tests, which utilized radioactive materials, to modern, safer, and more accurate methods. These advancements have made allergy diagnosis more accessible and affordable, contributing to higher reported rates. Increased urbanization and pollution have also been linked to allergic conditions, as exposure to pollutants like diisocyanates and xylene can disrupt skin microbiota, leading to conditions such as atopic dermatitis (Wikipedia, 2024). Changes in dietary habits, including the delayed introduction of allergenic foods, have similarly been associated with rising food allergy rates. However, recent studies suggest that early introduction of foods such as peanuts can help reduce the risk of developing allergies.
+
+While this analysis highlights just two of the five disease panels in our visualization, it underscores the importance of exploring these shifts in greater detail and expanding investigations beyond the initial and final data points. Doing so will allow medical professionals to better understand these trends, enabling them to improve preventative measures, diagnosis, and treatment for affected populations.
 
 
 ## Tableau Packaged Workbook
@@ -74,4 +80,9 @@ Noël, R. A. (2018, May). Race, Economics, and Social Status. U.S. Bureau of Lab
 Wesley, Naissan O, and Howard I Maibach. “Racial (Ethnic) Differences in Skin Properties: The Objective Data.” U.S. National Library of Medicine, American journal of clinical dermatology, 21 Aug. 2012, pubmed.ncbi.nlm.nih.gov/14640777/.
 
 “What Is Eczema?” National Eczema Association, nationaleczema.org/eczema/#:~:text=Natural%20liquids%20like%20the%20juice,areas%20of%20the%20skin%20differently. Accessed 20 Nov. 2024.
+
+National Library of Medicine, Kessler, R. C., Demler, O., Frank, R. G., Olfson, M., Pincus, H. A., Walters, E. E., Wang, P., Wells, K. B., & Zaslavsky, A. M. (2005, June 16). Prevalence and treatment of mental disorders, 1990 to 2003. The New England journal of medicine. https://pmc.ncbi.nlm.nih.gov/articles/PMC2847367/ 
+
+OSHA. (2024). Increase the proportion of children with mental health problems who get treatment - MHMD‑03 data. Increase the proportion of children with mental health problems who get treatment - Data - Healthy People 2030. https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/mental-health-and-mental-disorders/increase-proportion-children-mental-health-problems-who-get-treatment-mhmd-03/data?from=2019&group=Age+group&populations=12-17_years&state=United+States&to=2019&utm_source=chatgpt.com 
+Wikipedia. (2024, August 14). Hygiene hypothesis. https://en.wikipedia.org/wiki/Hygiene_hypothesis?utm_source=chatgpt.com 
 
